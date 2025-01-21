@@ -16,7 +16,7 @@ public class Food {
 
     private String title;
     private String image;
-    private Integer price;
+    private Double price;
 
     public Food(FoodRequestDTO data) {
         this.title = data.title();
