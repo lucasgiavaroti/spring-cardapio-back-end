@@ -1,7 +1,7 @@
 
 # Cardápio 
 
-Projeto feito em Spring Boot, para a simulação de um cardápio virtual utilizando API Rest
+Meu primeiro projeto feito em Spring Boot, para a simulação de um cardápio virtual utilizando API Rest
 
 
 
